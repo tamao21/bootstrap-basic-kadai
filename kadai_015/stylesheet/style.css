@@ -312,7 +312,7 @@ p {
   content: "シェフ";
 }
 
-.section_title::after {
+.section_title chef ::after {
   display: block;
   font-size: 14px;
   font-weight: 400;
@@ -321,6 +321,6 @@ p {
   border-bottom: solid 1px #000000;
 }
 
-.SHEF_us_bg {
+.CHEF_us_bg {
   background-color: #fdf5e6;
 }
