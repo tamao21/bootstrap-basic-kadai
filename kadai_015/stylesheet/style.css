@@ -312,14 +312,14 @@ p {
   content: "シェフ";
 }
 
-.section_title chef ::after {
+/* .section_title chef ::after {
   display: block;
   font-size: 14px;
   font-weight: 400;
   padding: 16px 0 16px;
   width: 100px;
   border-bottom: solid 1px #000000;
-}
+} */
 
 .CHEF_us_bg {
   background-color: #fdf5e6;
